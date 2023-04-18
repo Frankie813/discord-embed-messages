@@ -2,6 +2,7 @@
     "name": "frankie813/discord-embed-messages",
     "description": "A Laravel package to create and send embed messages with interactive components like buttons and select menus to Discord channels.",
     "type": "laravel-plugin",
+    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
